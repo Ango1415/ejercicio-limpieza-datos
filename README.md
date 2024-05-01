@@ -1,6 +1,3 @@
-# ejercicio-limpieza-datos
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -34,3 +31,8 @@ En esta sección podrás encontrar una lista general de los frameworks/librería
 * [Python](https://www.python.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
+
+<!-- USAGE EXAMPLES -->
+## Ejecución
+
+Puedes ejecutar el notebook que se encuentra en este repo en el entorno de tu preferencia (Jupyter, Collab). Para la ejecución del mismo se comparte el archivo _bank_marketing.csv_
