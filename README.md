@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Ejercicio Limpieza de Datos - </h1>
+  <h1 align="center">Ejercicio Limpieza de Datos - Bank Marketing</h1>
 
   <p align="center">
     <i><b>Data Engineering - Data Camp</b></i>
