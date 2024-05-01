@@ -6,7 +6,7 @@
   <p align="center">
     <i><b>Data Engineering - Data Camp</b></i>
     <br />
-    <a href="https://youtu.be/FLF42VZqDWg"><strong>Ver video explicativo»</strong></a>
+    <a href="https://youtu.be/FLF42VZqDWg" target="_blank"><strong>Ver video explicativo»</strong></a>
     <br />
     <br />
   </p>
